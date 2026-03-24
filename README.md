@@ -4,7 +4,8 @@
 NFT Gallery is a basic decentralized application built using Soroban (Stellar Smart Contracts). It allows users to mint, store, and view NFTs on the Stellar blockchain.
 
 This project demonstrates how NFTs can be implemented in a simple and efficient way using Rust and Soroban SDK.
-<img width="1914" height="909" alt="image" src="https://github.com/user-attachments/assets/e06398c3-d785-487d-960d-6cce396252da" />
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/b432f89f-b923-453b-a845-cdd13cbaa225" />
+
 
 
 ---
